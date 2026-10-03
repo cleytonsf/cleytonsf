@@ -6,7 +6,6 @@ Estudante de **Sistemas de Informação** no Instituto Federal da Bahia (IFBA - 
 
 ### 🚀 Sobre Mim
 - 🎓 **Curso:** Bacharelado em Sistemas de Informação (IFBA)
-- 💼 **Experiência:** Ex-monitor de Matemática no Projeto +estudo (2022–2024)
 - 🌱 **Foco de Aprendizagem:** Desenvolvimento Back-end, Orientação a Objetos e Arquitetura de Software
 - 📍 **Localização:** Feira de Santana - BA, Brasil
 
